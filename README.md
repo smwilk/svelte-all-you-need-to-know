@@ -1,6 +1,6 @@
 ## Beginner’s guide to Svelte - Everything you need to know from basics to state management and animation
 
-This repository is for those who read the blog "[Beginner’s guide to Svelte](https://www.twilio.com/blog/all-you-need-to-know-svelte)" on Twilio Blog to refer to the source code.
+This repository is for those who read the blog [Beginner’s guide to Svelte](https://www.twilio.com/blog/all-you-need-to-know-svelte) on Twilio Blog to refer to the source code.
 
 If you follow through the end of the tutorial, you will end up with a task list application as shown below.
 
