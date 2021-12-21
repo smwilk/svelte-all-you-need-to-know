@@ -12,7 +12,7 @@ If you follow through the end of the tutorial, you will end up with a task list 
 
 ```bash
 git clone https://github.com/smwilk/svelte-all-you-need-to-know.git
-cd svelte-all-you-need-to-know-jp
+cd svelte-all-you-need-to-know
 ```
 
 2. Install the dependencies by executing this command in the terminal:
